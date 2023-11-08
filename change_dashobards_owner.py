@@ -29,7 +29,7 @@ for index, row in excel_data.iterrows():
                     logging.info("Dashboard Name: " + row["Dashboard Name"] + "owner is updated?: " + change)
                     break
                 except Exception as e:
-                    logging.error("Something went wrong with: " + dashboard['name'] + ": " + e)
+                    logging.error("Something went wrong with: " + dashboard['name'] + ": " + str(e))
                     break
 
         get_dashboards_start += 100
