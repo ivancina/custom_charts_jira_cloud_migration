@@ -1,0 +1,3 @@
+CUSTOM_CHART = 'com.atlassian.plugins.atlassian-connect-plugin:com.oldstreetsolutions.atlassian.jira.custom-charts__custom-chart-dashboard-item'
+ISSUE_LIST = 'com.atlassian.plugins.atlassian-connect-plugin:com.oldstreetsolutions.atlassian.jira.custom-charts__issue-list-dashboard-item'
+SIMPLE_SEARCH = 'com.atlassian.plugins.atlassian-connect-plugin:com.oldstreetsolutions.atlassian.jira.custom-charts__simple-search-dashboard-item'
